@@ -59,3 +59,9 @@ pytest
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Author
+
+**Arjun K**
+- GitHub: [@Arjunkalliyadath](https://github.com/Arjunkalliyadath)
+- Email: arjunkalliyadath2001@gmail.com
